@@ -1,0 +1,105 @@
+{
+   "people": [],
+   "workouts": [],
+   "metadata": [
+   {
+      "lot": "video_game",
+      "source_id": "Anomaly: Warzone Earth",
+      "identifier": "8758",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Anomaly",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Anomaly: Warzone Earth - Mobile Campaign",
+      "identifier": "8759",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Anomaly",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Anomaly Korea",
+      "identifier": "8760",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Anomaly",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Anomaly Defenders",
+      "identifier": "8993",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Anomaly",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Anomaly 2",
+      "identifier": "9212",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Anomaly",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   }
+  ],
+   "exercises": [],
+   "measurements": [],
+   "metadata_groups": [],
+   "workout_templates": []
+}

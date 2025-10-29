@@ -1,0 +1,789 @@
+{
+   "people": [],
+   "workouts": [],
+   "metadata": [
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew Dossier: Lights, Camera, Curses!",
+      "identifier": "15999",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew Dossier: Resorting to Danger!",
+      "identifier": "10581",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The White Wolf of Icicle Creek",
+      "identifier": "5050",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Message in a Haunted Mansion",
+      "identifier": "6522",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Secrets Can Kill",
+      "identifier": "7620",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Stay Tuned for Danger",
+      "identifier": "7622",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Treasure in the Royal Tower",
+      "identifier": "7623",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Final Scene",
+      "identifier": "7624",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Secret of the Scarlet Hand",
+      "identifier": "7625",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Ghost Dogs of Moon Lake",
+      "identifier": "7626",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Legend of the Crystal Skull",
+      "identifier": "7629",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Alibi in Ashes",
+      "identifier": "10579",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Danger on Deception Island",
+      "identifier": "10580",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Secrets Can Kill Remastered",
+      "identifier": "10582",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Shadow at the Water's Edge",
+      "identifier": "10583",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Captive Curse",
+      "identifier": "10584",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Haunted Carousel",
+      "identifier": "10586",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Tomb of the Lost Queen",
+      "identifier": "10587",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Trail of the Twister",
+      "identifier": "10588",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Curse of Blackmoor Manor",
+      "identifier": "12450",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Danger by Design",
+      "identifier": "14953",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Warnings at Waverly Academy",
+      "identifier": "15018",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Last Train to Blue Moon Canyon",
+      "identifier": "15997",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Creature of Kapu Cave",
+      "identifier": "16001",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Haunting of Castle Malloy",
+      "identifier": "16002",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Phantom of Venice",
+      "identifier": "16003",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Ghost of Thornton Hall",
+      "identifier": "16451",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Deadly Device",
+      "identifier": "28222",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Ransom of the Seven Ships",
+      "identifier": "29201",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Sea of Darkness",
+      "identifier": "29920",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Labyrinth of Lies",
+      "identifier": "29925",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Shattered Medallion",
+      "identifier": "29926",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Silent Spy",
+      "identifier": "29927",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Secret of Shadow Ranch",
+      "identifier": "29928",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Midnight in Salem",
+      "identifier": "124420",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Mystery of the Seven Keys",
+      "identifier": "262197",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: Secret of the Old Clock",
+      "identifier": "16000",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Deadly Secret of Olde World Park",
+      "identifier": "47808",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Mystery of the Clue Bender Society",
+      "identifier": "47907",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew: The Hidden Staircase",
+      "identifier": "47916",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Nancy Drew",
+      "identifier": "80378",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Nancy Drew",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   }
+  ],
+   "exercises": [],
+   "measurements": [],
+   "metadata_groups": [],
+   "workout_templates": []
+}

@@ -1,0 +1,86 @@
+{
+   "people": [],
+   "workouts": [],
+   "metadata": [
+   {
+      "lot": "video_game",
+      "source_id": "Ski or Die",
+      "identifier": "11675",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Skate or Die",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Skate or Die 2: The Search for Double Trouble",
+      "identifier": "48181",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Skate or Die",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Skate or Die: Tour de Thrash",
+      "identifier": "49020",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Skate or Die",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Skate or Die: Bad 'N Rad",
+      "identifier": "128440",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Skate or Die",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   }
+  ],
+   "exercises": [],
+   "measurements": [],
+   "metadata_groups": [],
+   "workout_templates": []
+}

@@ -1,0 +1,105 @@
+{
+   "people": [],
+   "workouts": [],
+   "metadata": [
+   {
+      "lot": "video_game",
+      "source_id": "The 7th Guest",
+      "identifier": "323",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] 7th Guest",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "The 11th Hour",
+      "identifier": "2203",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] 7th Guest",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "The 7th Guest 3: The Collector",
+      "identifier": "62000",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] 7th Guest",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "The 7th Guest: Infection",
+      "identifier": "63058",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] 7th Guest",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "The 7th Guest: 25th Anniversary Edition",
+      "identifier": "116545",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] 7th Guest",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   }
+  ],
+   "exercises": [],
+   "measurements": [],
+   "metadata_groups": [],
+   "workout_templates": []
+}

@@ -1,0 +1,86 @@
+{
+   "people": [],
+   "workouts": [],
+   "metadata": [
+   {
+      "lot": "video_game",
+      "source_id": "Sparkster",
+      "identifier": "1263",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Sparkster",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Sparkster: Rocket Knight Adventures 2",
+      "identifier": "1264",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Sparkster",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Rocket Knight Adventures",
+      "identifier": "9766",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Sparkster",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   },
+   {
+      "lot": "video_game",
+      "source_id": "Rocket Knight",
+      "identifier": "10782",
+      "source": "igdb",
+      "collections": [
+        {
+          "rank": "0",
+          "collection_id": "col_bT5SWej-yqhf",
+          "collection_name": "[Series] Sparkster",
+          "created_on": "2025-08-11T14:51:58.599842Z",
+          "creator_user_id": "usr_OKnDiF3prlQq",
+          "last_updated_on": "2025-08-11T14:51:58.599842Z",
+          "information": {}
+        }
+      ],
+      "reviews": [],
+      "seen_history": []
+   }
+  ],
+   "exercises": [],
+   "measurements": [],
+   "metadata_groups": [],
+   "workout_templates": []
+}
